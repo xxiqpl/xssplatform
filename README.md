@@ -1,4 +1,2 @@
-xssplatform
-===========
-
-xssplatform
+user:xxiqpl
+pass:xxiqpl
